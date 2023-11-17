@@ -2982,7 +2982,7 @@ MonoBehaviour:
   playerDamage: {fileID: 8300000, guid: b7fa26c75440c6540b6d9a26bdbf9718, type: 3}
   playerExplosion: {fileID: 8300000, guid: 1e1d16e1f366f1b41a9c1ba0aaeeeb70, type: 3}
   BgMusicGameplay: {fileID: 8300000, guid: 77d163f1161f7b045bfb80bc3704f891, type: 3}
-  BgMusicTitleScreen: {fileID: 8300000, guid: b76ef23851f18464a91fcd3b92f928f8, type: 3}
+  BgMusicTitleScreen: {fileID: 8300000, guid: 7e59277cd5707d041b762551e97f4684, type: 3}
 --- !u!4 &1337980917
 Transform:
   m_ObjectHideFlags: 0
